@@ -1,0 +1,23 @@
+{
+  "name": "esbuild-plugin-write-file",
+  "version": "0.0.4",
+  "description": "esbuild plugin for asynchronously creating/writing files in parallel",
+  "main": "source/main.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ozanozbek/esbuild-plugin-write-file.git"
+  },
+  "keywords": [
+    "esbuild",
+    "plugin",
+    "file",
+    "write"
+  ],
+  "author": "Ozan Ozbek <erdemozanozbek@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ozanozbek/esbuild-plugin-write-file/issues"
+  },
+  "homepage": "https://github.com/ozanozbek/esbuild-plugin-write-file#readme"
+}
